@@ -383,14 +383,14 @@ div.bio {
   position: fixed;
   top: 220px;
   right: 25%;
-  // margin-left:-580px;
+  margin-left: 100px;
   text-align: left;
     #avatar {
     position:absolute;
-    height: 100px;
-    width: 100px;
+    height: 250px;
+    width: 250px;
     right:7px;
-    top: 220px;
+    top: 0px;
     display: block;
     background: url(../images/hello-frand.jpg);}
   }
