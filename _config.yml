@@ -9,16 +9,16 @@ search: true
 markdown: kramdown
 timezone: America/New_York
 
-include:
-  - _pages
+# include:
+#   - _pages
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+#   - jekyll-include-cache
 
 author:
   name   : "Heather Bannister"
