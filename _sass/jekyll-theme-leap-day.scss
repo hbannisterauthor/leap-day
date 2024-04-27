@@ -18,6 +18,14 @@ body {
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
 
+ #avatar {
+    position:absolute;
+    height: 45px;
+    width: 45px;
+    right:7px;
+    top:1px;
+    display: block;
+    background: url(../images/hello-frand.jpg);}
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -385,17 +393,7 @@ bio {
   right: 50%;
   // margin-left:-580px;
   text-align: left;
-  
-  #avatar {
-    position:absolute;
-    height: 45px;
-    width: 45px;
-    right:7px;
-    top:1px;
-    display: block;
-    background: url(../images/hello-frand.jpg);}
-	
-}
+  }
 
 footer {
   width:180px;
@@ -453,6 +451,7 @@ footer {
     max-width: 650px;
   }
 
+	
   footer{
     text-align: center;
     margin: 20px auto;
