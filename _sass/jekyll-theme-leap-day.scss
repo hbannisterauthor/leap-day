@@ -17,16 +17,16 @@ body {
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
+}
 
  #avatar {
     position:absolute;
-    height: 45px;
-    width: 45px;
+    height: 100px;
+    width: 100px;
     right:7px;
-    top:1px;
+    top: 220px;
     display: block;
     background: url(../images/hello-frand.jpg);}
-}
 
 h1, h2, h3, h4, h5, h6 {
   color:#333;
