@@ -382,20 +382,21 @@ div.bio {
   width: 230px;
   position: fixed;
   top: 220px;
-  right: 15%;
+  right: 20%;
   text-align: left;
-    #avatar {
-    position:absolute;
-    height: 250px;
-    width: 250px;
-    right:7px;
-    top: 0px;
-    display: block;
-    background: url(../images/hello-frand.jpg);
-	background-size: cover;
-   	border-radius: 50%; 
-    	border: 5px solid #ffffff;
-    	box-sizing: border-box; 
+
+	#avatar {
+	    position:absolute;
+	    height: 250px;
+	    width: 250px;
+	    right:7px;
+	    top: 0px;
+	    display: block;
+	    background: url(../images/hello-frand.jpg);
+	    background-size: cover;
+	    border-radius: 50%; 
+	    border: 5px solid #FFE788;
+	    box-sizing: border-box; 
 	}
   }
 
