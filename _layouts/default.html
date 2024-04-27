@@ -26,7 +26,7 @@
       <div id="banner">
         <span id="logo"></span>
 
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        <a href="{{ site.github.repository_url }}" class="button fork"><strong>about me</strong></a>
         {% if site.show_links %}
           <div class="downloads">
             <span>socials</span>
@@ -46,9 +46,10 @@
         {{ content }}
 
       </section>
-      <div class="bio">
-        
-      </div>
+      <bio>
+        <img href="{{ site.author.avatar }}">
+        <p>{{ site.author.bio }}</p>
+      </bio>
       <footer>
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="https://github.com/Rasheed-bannister">Rasheed Bannister</a></p>
