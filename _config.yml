@@ -2,7 +2,7 @@ title: Heather Bannister
 title_separator: "|"
 email: hbannister.author@gmail.com
 description: Author. Book Enthusiast. <br><i>"A meet-cute between Suspense and New-Adult Romance."</i>
-show_downloads: false
+show_links: true
 google_analytics: false
 theme: jekyll-theme-leap-day
 search: true
@@ -20,14 +20,15 @@ timezone: America/New_York
 #   - jemoji
 #   - jekyll-include-cache
 
+instagram:
+  url: "https://instagram.com/hbannister.author"
+facebook:
+  url: "https://www.google.com"
+
 author:
   name   : "Heather Bannister"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "she/her"
-  links:
-    - label: "instagram"
-      icon: "fas fa-fw fa-instagram"
-      url: "https://instagram.com/hbannister.author"
 
 footer:
   links:
