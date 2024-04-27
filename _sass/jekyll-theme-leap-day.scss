@@ -191,6 +191,16 @@ header {
     -ms-text-overflow: ellipsis;
   }
 
+h1.header {
+	font-family: Arvo, sans-serif;
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 1.3em;
+	border-bottom: none;
+	margin-top: 0;
+}
+
+	
   p {
     color: #d8d8d8;
     text-shadow:rgba(#000, 0.2) 0 1px 0;
