@@ -383,7 +383,7 @@ div.bio {
   position: fixed;
   top: 220px;
   right: 25%;
-  margin-left: 500px;
+  margin-left: -500px;
   text-align: left;
     #avatar {
     position:absolute;
@@ -394,6 +394,9 @@ div.bio {
     display: block;
     background: url(../images/hello-frand.jpg);
 	background-size: cover;
+   	border-radius: 50%; 
+    	border: 5px solid #ffffff;
+    	box-sizing: border-box; 
 	}
   }
 
