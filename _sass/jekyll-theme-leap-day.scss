@@ -267,11 +267,12 @@ h1.header {
     margin:0 45px 0 0;
 
     span {
+      font-family: Love;
       float:left;
       line-height:52px;
       font-size:90%;
-      color:#9d7f0d;
-      text-transform:uppercase;
+      color:#f3f3f3;
+      // text-transform:uppercase;
       text-shadow:rgba(#fff, 0.2) 0 1px 0;
     }
   }
@@ -427,7 +428,7 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin: 190px auto 20px;
-    max-width: 600px;
+    max-width: 650px;
   }
 
   footer{
