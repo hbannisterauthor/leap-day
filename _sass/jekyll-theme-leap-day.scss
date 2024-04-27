@@ -213,7 +213,9 @@ h1.header {
     font-size: 18px;
     margin: 0px;
   }
-}
+  p.p2 {
+      font-size: 14px;
+  }
 
 #banner {
   z-index: 100;
@@ -295,10 +297,10 @@ h1.header {
 
   #logo {
     position:absolute;
-    height: 36px;
-    width: 36px;
-    // right:7px;
-    // top:7px;
+    height: 30px;
+    width: 30px;
+    right:7px;
+    top:7px;
     display: block;
     background: url(../images/heart.ico);
   }
