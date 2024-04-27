@@ -379,11 +379,13 @@ nav {
 }
 
 div.bio {
-  width: 230px;
+  width: 300px;
   position: fixed;
   top: 220px;
   right: 20%;
   text-align: left;
+  display: flex;
+  justify-content: center;
 
 	#avatar {
 	    position:absolute;
@@ -401,6 +403,8 @@ div.bio {
     p {
 	    position: absolute;
 	    top: 255px;
+	    display: flex;
+  	    justify-content: center;
 	}
   }
 
