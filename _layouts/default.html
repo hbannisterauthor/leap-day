@@ -46,9 +46,12 @@
         {{ content }}
 
       </section>
-          <div class="bio"> This is some test text</div>
+          <div class="bio"> This is some test text
+            <div id="avatar"></div>
+            <p>{{ site.author.bio }}</p>
+          </div>
 <!--         <img href="{{ site.author.avatar }}"> -->
-        <p>{{ site.author.bio }}</p>
+        
 
       <footer>
         {% if site.github.is_project_page %}
