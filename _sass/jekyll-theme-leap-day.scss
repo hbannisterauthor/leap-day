@@ -294,11 +294,11 @@ h1.header {
   }
 
   #logo {
-    position:relative;
+    position:absolute;
     height: 36px;
     width: 36px;
-    right:7px;
-    top:7px;
+    // right:7px;
+    // top:7px;
     display: block;
     background: url(../images/heart.ico);
   }
