@@ -2,7 +2,6 @@
 Leap Day for GitHub Pages
 by Matt Graham
 */
-
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark";
@@ -11,7 +10,7 @@ body {
   padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
-	color: #232323;
+	color: #bae7cb;
 	background-color: #FBFAF7;
 	margin: 0;
 	line-height: 1.8em;
@@ -51,14 +50,14 @@ h3 {
 }
 
 a {
-  color:#4276b6;
+  color:#7bac92;
   font-weight:400;
   text-decoration:none;
 }
 
 a small {
   font-size:11px;
-  color:#666;
+  color:#fbc6c8;
   margin-top:-0.6em;
   display:block;
 }
@@ -137,7 +136,7 @@ th {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
-  color: #444;
+  color: ##;
 }
 
 td {
@@ -173,14 +172,17 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+  background: url(../images/background.png) #cc7f90;
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
   min-height: 76px;
 
   h1 {
-    font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Arvo, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.3em;
     color: #f3f3f3;
     text-shadow: 0px 2px 0px #235796;
     margin: 0px;
@@ -217,7 +219,7 @@ h1.header {
   margin-right:-382px;
   position: fixed;
   top: 115px;
-  background: #ffcc00;
+  background: #efaab3;
   border: 1px solid #f0b500;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
@@ -228,7 +230,7 @@ h1.header {
     background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #FFE788;
+    background-color: #efaab3;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
@@ -241,7 +243,7 @@ h1.header {
 
     &:hover {
       background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
-      background-color: #ffeca0;
+      background-color: #fcb6c8;
     }
   }
 
