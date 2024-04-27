@@ -8,12 +8,15 @@ by Matt Graham
 @import "rouge-base16-dark";
 
 body {
-  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#2b2b2b;
-  font-weight:300;
-  margin: 0px;
-  padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  padding:10px 50px 0 0;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #232323;
+	background-color: #FBFAF7;
+	margin: 0;
+	line-height: 1.8em;
+	-webkit-font-smoothing: antialiased;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
