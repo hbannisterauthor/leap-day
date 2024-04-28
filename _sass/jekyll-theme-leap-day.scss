@@ -373,10 +373,10 @@ nav {
       &:hover { color: #999; }
     }
 
-    // .active {
-    //   border-right:solid 4px #39C;
-    //   padding-right:13px;
-    // }
+    .active {
+      border-right:solid 4px #39C;
+      padding-right:13px;
+    }
   }
 }
 
@@ -410,6 +410,16 @@ div.bio {
 	    text-align: center;
 	    // margin-right: 40px;
 	    font-family: Love;
+	    font-size:10px;
+	    color: #FFE788;
+	}
+	p.p2{
+		position: absolute;
+	    top: 270px;
+	    // width: 300px;
+	    text-align: center;
+	    // margin-right: 40px;
+	    font-family: Comic Neue;
 	    font-size:12px;
 	    color: #333;
 	}
