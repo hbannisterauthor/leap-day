@@ -13,13 +13,13 @@ timezone: America/New_York
 # include:
 #   - _pages
 
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
-#   - jekyll-include-cache
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 instagram:
   url: "https://instagram.com/hbannister.author"
@@ -28,7 +28,7 @@ facebook:
 
 author:
   name   : "Heather Bannister"
-  avatar : "/assets/images/hello frand.jpg"
+  avatar : "/assets/images/hello-frand.jpg"
   bio    : "she/purr"
 
 footer:
