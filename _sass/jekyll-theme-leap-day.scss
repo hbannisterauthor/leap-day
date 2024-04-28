@@ -388,12 +388,9 @@ div.bio {
   text-align: center;
 
 	#avatar {
-	    // position:absolute;
 	    height: 250px;
 	    width: 300px;
-	    // margin-left: 40px;
 	    top: 0px;
-	    // display: block;
 	    background: url(../images/bio-photo.webp);
 	    background-size: cover;
 	    border-radius: 50%; 
@@ -409,19 +406,21 @@ div.bio {
 	    font-family: Love;
 	    font-size:10px;
 	    text-shadow: 0px 2px 0px #235796;
+	    color: #f3f3f3;
 	}
 	p.p2{
 	    position: absolute;
-	    top: 270px;
+	    top: 280px;
 	    width: 300px;
 	    text-align: center;
 	    left: 50%;
 	    transform: translateX(-50%);
 	    font-family: Comic Neue;
-	    font-size:12px;
+	    font-size:14px;
 	    color: #333;
-		text-shadow: 0px 0px 0px #000;
-	}
+	    text-shadow: 0px 0px 0px #000;
+	    line-height: 1.3em;
+    	}
   }
 
 footer {
