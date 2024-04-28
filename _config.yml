@@ -16,7 +16,7 @@ timezone: America/New_York
 plugins:
   - jekyll-algolia
   - jemoji
-  # - jekyll-feed 
+  - jekyll-feed 
   - jekyll-gist
   - jekyll-include-cache
   - jekyll-paginate
