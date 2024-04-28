@@ -384,10 +384,8 @@ div.bio {
   width: 300px;
   position: fixed;
   top: 220px;
-  // right: 20%;
   margin-left:675px;
   text-align: center;
-  // margin: 0 auto;
 
 	#avatar {
 	    // position:absolute;
@@ -406,6 +404,7 @@ div.bio {
 	    position: absolute;
 	    top: 255px;
 	    left: 50%;
+	    transform: translateX(-50%);
 	    text-align: center;
 	    font-family: Love;
 	    font-size:10px;
@@ -414,11 +413,12 @@ div.bio {
 		  z-index:99;
 	}
 	p.p2{
-		position: absolute;
+	    position: absolute;
 	    top: 270px;
-	    // width: 300px;
+	    width: 300px;
 	    text-align: center;
-	    // margin-right: 40px;
+	    left: 50%;
+	    transform: translateX(-50%);
 	    font-family: Comic Neue;
 	    font-size:12px;
 	    color: #333;
