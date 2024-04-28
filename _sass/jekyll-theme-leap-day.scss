@@ -405,11 +405,8 @@ div.bio {
     p {
 	    position: absolute;
 	    top: 255px;
-	    display: flex; /* Use flexbox */
-		justify-content: center; /* Aligns child elements horizontally */
-	    // width: 300px;
+	    left: 50%;
 	    text-align: center;
-	    // margin-right: 40px;
 	    font-family: Love;
 	    font-size:10px;
 	    color: #f3f3f3;
