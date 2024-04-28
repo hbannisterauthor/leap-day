@@ -14,12 +14,13 @@ timezone: America/New_York
 #   - _pages
 
 plugins:
+  - jekyll-algolia
+  - jemoji
+  # - jekyll-feed 
+  - jekyll-gist
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
 
 instagram:
   url: "https://instagram.com/hbannister.author"
