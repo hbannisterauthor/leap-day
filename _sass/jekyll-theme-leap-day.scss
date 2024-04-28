@@ -411,7 +411,9 @@ div.bio {
 	    // margin-right: 40px;
 	    font-family: Love;
 	    font-size:10px;
-	    color: #FFE788;
+	    color: #f3f3f3;
+	    box-shadow: 1px 0px 2px rgba(0,0,0,.75);
+		  z-index:99;
 	}
 	p.p2{
 		position: absolute;
