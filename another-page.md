@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Contact
 ---
 
-## Welcome to another page
+# book deals
 
 _yay_
 
