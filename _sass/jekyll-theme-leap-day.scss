@@ -193,6 +193,10 @@ header {
     text-overflow: ellipsis;
     -o-text-overflow: ellipsis;
     -ms-text-overflow: ellipsis;
+
+    a {
+	color: #f3f3f3;    
+    }
   }
 
 h1.header {
