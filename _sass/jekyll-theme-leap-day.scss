@@ -392,8 +392,7 @@ div.bio {
 	#avatar {
 	    // position:absolute;
 	    height: 250px;
-	    width: 250px;
-	    
+	    width: 300px;
 	    // margin-left: 40px;
 	    top: 0px;
 	    // display: block;
@@ -406,6 +405,8 @@ div.bio {
     p {
 	    position: absolute;
 	    top: 255px;
+	    display: flex; /* Use flexbox */
+		justify-content: center; /* Aligns child elements horizontally */
 	    // width: 300px;
 	    text-align: center;
 	    // margin-right: 40px;
