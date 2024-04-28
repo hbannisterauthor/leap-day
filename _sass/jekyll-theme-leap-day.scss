@@ -383,9 +383,7 @@ div.bio {
   position: fixed;
   top: 220px;
   right: 20%;
-  text-align: left;
-  display: flex;
-  justify-content: center;
+  text-align: center;
 
 	#avatar {
 	    position:absolute;
@@ -405,6 +403,8 @@ div.bio {
 	    top: 255px;
 	    display: flex;
   	    justify-content: center;
+	    font-family: Love;
+	    font-size:12px;
 	}
   }
 
