@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About Me
 ---
 
 # birth
@@ -7,5 +8,9 @@ Technically an 80's kid, but truly a child of the 90's. I was born in sunny San 
 
 It is, perhaps, for this reason that my novels cut to the very quick of the coeur Americaine.
 
+* * * 
+
 # love
 My husband is the best.
+
+* * * 
